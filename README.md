@@ -53,7 +53,7 @@
   </a>
 </p>
 <hr>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarryCrucian&theme=tokyonight)](https://git.io/streak-stats)
 <!--
 **DarryCrucian/DarryCrucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
