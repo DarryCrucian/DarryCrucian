@@ -47,9 +47,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/98383984?v=4"  />
-
 ###
 
 <div align="center">
