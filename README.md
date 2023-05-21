@@ -47,7 +47,7 @@
 </p>
 <br>
 <h4>Learning</h4>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure" />
   </a>
