@@ -57,10 +57,9 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/DarryCrucian/count.svg?"  />
