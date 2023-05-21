@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryamanxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryamanxo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryaman-pattnayak-53b8551b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryaman-pattnayak-53b8551b9/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aryaman-pattnayak-53b8551b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryaman-pattnayak-53b8551b9/" height="30" width="40" /></a>
 <a href="https://instagram.com/aryaman02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryaman02" height="30" width="40" /></a>
 <a href="https://medium.com/@aryaman02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aryaman02" height="30" width="40" /></a>
 <a href="https://discord.gg/7fxafaka3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7fxafaka3d" height="30" width="40" /></a>
